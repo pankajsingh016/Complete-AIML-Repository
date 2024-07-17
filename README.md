@@ -7,7 +7,7 @@ Repo cover most of the basics of ML, provides an structure plan to learn things 
 ### Supervised Machine Learning Algorithms
 |Sno.|Algorithm|Link|Status|
 |---|---|---|---|
-|1|Linear Regression|[Link]() |&#x2705;|
+|1|Linear Regression|[Link](./Supervised%20Machine%20Learning%20Algos/LinearRegression.md) |&#x2705;|
 |2|Logistic Regression|[Link]()|&#x274c;|
 |3|Decision Trees|[Link]()|&#x274c;|
 |4|Random Forest|[Link]()|&#x274c;|
