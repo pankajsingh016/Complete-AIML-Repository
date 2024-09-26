@@ -9,14 +9,17 @@ Repo cover most of the basics of ML, provides an structure plan to learn things 
 |---|---|---|---|
 |1|Simple Linear Regression|[Link](./Supervised%20Machine%20Learning%20Algos/Supervised%Machine%Learning%Algos/Simple%Linear%Regression.ipynb) |&#x2705;|
 |2|Multiple Linear Regression|[Link](./Machine%20Learning%20Algos/Multiple%20Linear%20Regression/Multiple%20Linear%20regression.ipynb)|&#x2705;|
-|3|Logistic Regression|[Link]()|&#x274c;|
-|4|Decision Trees|[Link]()|&#x274c;|
-|5|Random Forest|[Link]()|&#x274c;|
-|6|Support Vector Machine|[Link]()|&#x274c;|
-|7|K-Nearest Neighbours|[Link]()|&#x274c;|
-|8|Naive Bayes|[Link]()|&#x274c;|
-|9|Gradient Boosting|[Link]()|&#x274c;|
-|10|AdaBoost|[Link]()|&#x274c;|
+|3|Ridge Regression|[Link]()|&#x2705|
+|4|Lasso Regression|[Link]()|&#x2705|
+|5|Elastic Net Regression|[Link]()|&#2705|
+|6|Logistic Regression|[Link]()|&#x274c;|
+|7|Decision Trees|[Link]()|&#x274c;|
+|8|Random Forest|[Link]()|&#x274c;|
+|9|Support Vector Machine|[Link]()|&#x274c;|
+|10|K-Nearest Neighbours|[Link]()|&#x274c;|
+|11|Naive Bayes|[Link]()|&#x274c;|
+|12|Gradient Boosting|[Link]()|&#x274c;|
+|13|AdaBoost|[Link]()|&#x274c;|
 
 ### Unsupervised Machine Learning Algorithms
 |Sno.|Algorithm|Link|Status|
