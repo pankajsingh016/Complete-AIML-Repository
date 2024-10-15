@@ -12,8 +12,8 @@ Repo cover most of the basics of ML, provides an structure plan to learn things 
 |3|Ridge Regression|[Link](./Machine%20Learning%20Algos/Lasso,Ridge,Elasticnet%20regression/Model%20Training%20with%20EL,%20LR,%20RR.ipynb)|&#x2705;|
 |4|Lasso Regression|[Link](./Machine%20Learning%20Algos/Lasso,Ridge,Elasticnet%20regression/Model%20Training%20with%20EL,%20LR,%20RR.ipynb)|&#x2705;|
 |5|Elastic Net Regression|[Link](./Machine%20Learning%20Algos/Lasso,Ridge,Elasticnet%20regression/Model%20Training%20with%20EL,%20LR,%20RR.ipynb)|&#2705;|
-|6|Logistic Regression|[Link](./Machine%20Learning%20Algos/Logistic%20Regression/Logistic%20Regression%20Implementation.ipynb)|&#x274c;|
-|7|Decision Trees|[Link](./Machine%20Learning%20Algos/Decision%20Tree%20Classifier/Descision%20Trees.ipynb)|&#x274c;|
+|6|Logistic Regression|[Link](./Machine%20Learning%20Algos/Logistic%20Regression/Logistic%20Regression%20Implementation.ipynb)|&#2705;|
+|7|Decision Trees|[Link](./Machine%20Learning%20Algos/Decision%20Tree%20Classifier/Descision%20Trees.ipynb)|&#2705;|
 |8|Random Forest|[Link]()|&#x274c;|
 |9|Support Vector Machine|[Link]()|&#x274c;|
 |10|K-Nearest Neighbours|[Link]()|&#x274c;|
