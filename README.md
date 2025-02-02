@@ -8,7 +8,7 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 ### Supervised Machine Learning Algorithms
 
-| Sno. | Algorithm                  | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Status   |
+| Sno. | Algorithm                  | Link(Notebook)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Status   |
 | ---- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 | 1    | Simple Linear Regression   | [Link](./Supervised%20Machine%20Learning%20Algos/Supervised%Machine%Learning%Algos/Simple%Linear%Regression.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                           | &#x2705; |
 | 2    | Multiple Linear Regression | [Link](./Machine%20Learning%20Algos/Multiple%20Linear%20Regression/Multiple%20Linear%20regression.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &#x2705; |
@@ -28,11 +28,11 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 | Sno. | Algorithm                         | Link     | Status   |
 | ---- | --------------------------------- | -------- | -------- |
-| 1    | K-means Clusterring               | [Link]() | &#x274c; |
-| 2    | Hierarchical Clustering           | [Link]() | &#x274c; |
-| 3    | DBSCAN                            | [Link]() | &#x274c; |
-| 4    | PCA(Principal Component Analysis) | [Link]() | &#x274c; |
-| 5    | t-SNE                             | [Link]() | &#x274c; |
+| 1    | K-means Clusterring               | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/K-Mean-Clustering/Kmean.ipynb) | &#x2705; |
+| 2    | Hierarchical Clustering           | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Hierarchal%20Clustering/HierarchalClusteringImplementation.ipynb) | &#x2705; |
+| 3    | DBSCAN                            | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/DBSCAN/DBSCAN.ipynb) | &#x2705; |
+| 4    | PCA(Principal Component Analysis) | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/PCA/pca_implementation.ipynb) | &#x274c; |
+| 5    | t-SNE                             | [Link]() | &#x2705; |
 | 6    | Apriori Algorithm                 | [Link]() | &#x274c; |
 | 7    | FP-Growth                         | [Link]() | &#x274c; |
 
@@ -54,8 +54,8 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 | Sno. | Algorithm                             | Link     | Status   |
 | ---- | ------------------------------------- | -------- | -------- |
-| 1    | Artificial Neural Networks (ANN)      | [Link]() | &#x274c; |
-| 2    | Convolutional Neural Networks (CNN)   | [Link]() | &#x274c; |
+| 1    | Artificial Neural Networks (ANN)      | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Deep%20Learning%20Algos/ANN%20Implementation/Ann.ipynb) | &#x2705; |
+| 2    | Convolutional Neural Networks (CNN)   | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Deep%20Learning%20Algos/CNN%20Implementation/cnn.ipynb) | &#x2705; |
 | 3    | Recurrent Neural Networks (RNN)       | [Link]() | &#x274c; |
 | 4    | Autoencoders                          | [Link]() | &#x274c; |
 | 5    | Generative Adversarial Networks (GAN) | [Link]() | &#x274c; |
@@ -73,7 +73,7 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 | Sno. | Algorithm                         | Link     | Status   |
 | ---- | --------------------------------- | -------- | -------- |
-| 1    | PCA                               | [Link]() | &#x274c; |
+| 1    | PCA                               | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/PCA/pca_implementation.ipynb) | &#x2705; |
 | 2    | LDA(Linear Discriminant Analysis) | [Link]() | &#x274c; |
 | 3    | t-SNE                             | [Link]() | &#x274c; |
 
