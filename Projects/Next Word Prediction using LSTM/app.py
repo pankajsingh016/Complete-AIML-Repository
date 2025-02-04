@@ -39,8 +39,6 @@ def predict_next_word(model,tokenizer, text, max_sequence_len):
 
 
 #streamlit app
-
-
 st.title("NEXT WORD PREDICTION WITH LSTM AND EARLY STOPPING")
 input_text = st.text_input("Enter the Sequence of Word")
 if st.button("Predict Next Word"):
