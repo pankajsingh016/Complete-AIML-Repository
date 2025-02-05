@@ -63,19 +63,19 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 
 ### NLP(Natural Langauage Processing)
-| Sno. | Algorithm | Link | Status |
-| ---- |__________|____|______|
-| 1| Bag of Words | [Link]() | &#x2705;|
-| 2| Lemmatization | [Link]() | &#x2705;|
-| 3| WordEmbedding | [Link]() | &#x2705;|
-| 4| Tokenization | [Link]() | &#x2705;|
-| 5| Ngram | [Link]() | &#x2705;|
-| 6| Word2Vec | [Link]() | &#x2705;|
-| 7| Name Entity Recognition | [Link]() | &#x2705;|
-| 8| Parts of Speech | [Link]() | &#x2705;|
-| 9| Stemming | [Link]() | &#x2705;|
-| 10| Stopwords | [Link]() | &#x2705;|
-| 11| TF_IDF | [Link]() | &#x2705;|
+| Sno. | Algorithm               | Link     | Status   |
+| ---- | ----------------------- | -------- | -------- |
+| 1    | Bag of Words            | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/Bag%20of%20Words.ipynb) | &#x2705; |
+| 2    | Lemmatization           | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/Lemmatization.ipynb) | &#x2705; |
+| 3    | WordEmbedding           | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/WordEmbedding.ipynb) | &#x2705; |
+| 4    | Tokenization            | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/Tokenization.ipynb) | &#x2705; |
+| 5    | Ngram                   | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/Ngram.ipynb) | &#x2705; |
+| 6    | Word2Vec                | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/Word2Vec.ipynb) | &#x2705; |
+| 7    | Name Entity Recognition | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/Name%20Entity%20Recoginition.ipynb) | &#x2705; |
+| 8    | Parts of Speech         | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/Parts%20of%20Speech.ipynb) | &#x2705; |
+| 9    | Stemming                | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/stemming.ipynb) | &#x2705; |
+| 10   | Stopwords               | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/StopWords.ipynb) | &#x2705; |
+| 11   | TF_IDF                  | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Natural%20Language%20Processing/TF_IDF.ipynb) | &#x2705; |
 
 
 ### Ensemble Learning
