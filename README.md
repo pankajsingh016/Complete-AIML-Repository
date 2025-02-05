@@ -8,7 +8,7 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 ### Supervised Machine Learning Algorithms
 
-| Sno. | Algorithm                  | Link(Notebook)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Status   |
+| Sno. | Algorithm                  | Link(Notebook)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Status   |
 | ---- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 | 1    | Simple Linear Regression   | [Link](./Supervised%20Machine%20Learning%20Algos/Supervised%Machine%Learning%Algos/Simple%Linear%Regression.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                           | &#x2705; |
 | 2    | Multiple Linear Regression | [Link](./Machine%20Learning%20Algos/Multiple%20Linear%20Regression/Multiple%20Linear%20regression.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &#x2705; |
@@ -17,24 +17,24 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 | 5    | Elastic Net Regression     | [Link](./Machine%20Learning%20Algos/Lasso,Ridge,Elasticnet%20regression/Model%20Training%20with%20EL,%20LR,%20RR.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                      | &#x2705; |
 | 6    | Logistic Regression        | [Link](./Machine%20Learning%20Algos/Logistic%20Regression/Logistic%20Regression%20Implementation.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                                      | &#x2705; |
 | 7    | Decision Trees             | [Link(Decision Tree Regressor)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Decision%20Tree%20Classifier/Decision%20Tree%20Regressor.ipynb),[Link(Decision Trees)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Decision%20Tree%20Classifier/Decision%20Trees.ipynb)                                                                                                                                                                                    | &#x2705; |
-| 8    | Random Forest              | [Link(Random Forest Bagging)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Random%20Forest%20Classifier/randomForest.ipynb),[Link(Random Forest Boosting)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Random%20Forest%20Classifier/BoostingTechnique.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &#x2705; |
+| 8    | Random Forest              | [Link(Random Forest Bagging)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Random%20Forest%20Classifier/randomForest.ipynb),[Link(Random Forest Boosting)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Random%20Forest%20Classifier/BoostingTechnique.ipynb)                                                                                                                                                                                            | &#x2705; |
 | 9    | Support Vector Machine     | [Link(SVM Classification)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Support%20Vector%20Machine/SVM%20Classification.ipynb),[SVM(Kernel)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Support%20Vector%20Machine/SVM%20Kernel%20Implementation.ipynb)[SVM(Regressor)](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Support%20Vector%20Machine/Support%20Vector%20Regressor%20Implementation.ipynb) | &#x2705; |
-| 10   | K-Nearest Neighbours       | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/KNN(K-nearest-neighbour)/KNN.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &#x2705; |
-| 11   | Naive Bayes                | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Naive%20Bayes/Naive%20Bayes%20Implementation.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &#x2705; |
+| 10   | K-Nearest Neighbours       | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/KNN(K-nearest-neighbour)/KNN.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                                    | &#x2705; |
+| 11   | Naive Bayes                | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Naive%20Bayes/Naive%20Bayes%20Implementation.ipynb)                                                                                                                                                                                                                                                                                                                                                                                                    | &#x2705; |
 | 12   | Gradient Boosting          | [Link]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &#x274c; |
 | 13   | AdaBoost                   | [Link]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | &#x274c; |
 
 ### Unsupervised Machine Learning Algorithms
 
-| Sno. | Algorithm                         | Link     | Status   |
-| ---- | --------------------------------- | -------- | -------- |
-| 1    | K-means Clusterring               | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/K-Mean-Clustering/Kmean.ipynb) | &#x2705; |
+| Sno. | Algorithm                         | Link                                                                                                                                                                    | Status   |
+| ---- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1    | K-means Clusterring               | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/K-Mean-Clustering/Kmean.ipynb)                                    | &#x2705; |
 | 2    | Hierarchical Clustering           | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/Hierarchal%20Clustering/HierarchalClusteringImplementation.ipynb) | &#x2705; |
-| 3    | DBSCAN                            | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/DBSCAN/DBSCAN.ipynb) | &#x2705; |
-| 4    | PCA(Principal Component Analysis) | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/PCA/pca_implementation.ipynb) | &#x274c; |
-| 5    | t-SNE                             | [Link]() | &#x2705; |
-| 6    | Apriori Algorithm                 | [Link]() | &#x274c; |
-| 7    | FP-Growth                         | [Link]() | &#x274c; |
+| 3    | DBSCAN                            | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/DBSCAN/DBSCAN.ipynb)                                              | &#x2705; |
+| 4    | PCA(Principal Component Analysis) | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/PCA/pca_implementation.ipynb)                                     | &#x274c; |
+| 5    | t-SNE                             | [Link]()                                                                                                                                                                | &#x2705; |
+| 6    | Apriori Algorithm                 | [Link]()                                                                                                                                                                | &#x274c; |
+| 7    | FP-Growth                         | [Link]()                                                                                                                                                                | &#x274c; |
 
 ### Semi-Supervised Learning Algorithms
 
@@ -52,14 +52,31 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 ### Deep Learning
 
-| Sno. | Algorithm                             | Link     | Status   |
-| ---- | ------------------------------------- | -------- | -------- |
+| Sno. | Algorithm                             | Link                                                                                                                               | Status   |
+| ---- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | 1    | Artificial Neural Networks (ANN)      | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Deep%20Learning%20Algos/ANN%20Implementation/Ann.ipynb) | &#x2705; |
 | 2    | Convolutional Neural Networks (CNN)   | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Deep%20Learning%20Algos/CNN%20Implementation/cnn.ipynb) | &#x2705; |
-| 3    | Recurrent Neural Networks (RNN)       | [Link]() | &#x274c; |
-| 4    | Autoencoders                          | [Link]() | &#x274c; |
-| 5    | Generative Adversarial Networks (GAN) | [Link]() | &#x274c; |
-| 6    | Transformer Networks                  | [Link]() | &#x274c; |
+| 3    | Recurrent Neural Networks (RNN)       | [Link]()                                                                                                                           | &#x274c; |
+| 4    | Autoencoders                          | [Link]()                                                                                                                           | &#x274c; |
+| 5    | Generative Adversarial Networks (GAN) | [Link]()                                                                                                                           | &#x274c; |
+| 6    | Transformer Networks                  | [Link]()                                                                                                                           | &#x274c; |
+
+
+### NLP(Natural Langauage Processing)
+| Sno. | Algorithm | Link | Status |
+| ---- |__________|____|______|
+| 1| Bag of Words | [Link]() | &#x2705;|
+| 2| Lemmatization | [Link]() | &#x2705;|
+| 3| WordEmbedding | [Link]() | &#x2705;|
+| 4| Tokenization | [Link]() | &#x2705;|
+| 5| Ngram | [Link]() | &#x2705;|
+| 6| Word2Vec | [Link]() | &#x2705;|
+| 7| Name Entity Recognition | [Link]() | &#x2705;|
+| 8| Parts of Speech | [Link]() | &#x2705;|
+| 9| Stemming | [Link]() | &#x2705;|
+| 10| Stopwords | [Link]() | &#x2705;|
+| 11| TF_IDF | [Link]() | &#x2705;|
+
 
 ### Ensemble Learning
 
@@ -71,11 +88,11 @@ If you Don't Know Python This will be helpful to Quickly go through it. [Python]
 
 ### Dimensionality Reduction
 
-| Sno. | Algorithm                         | Link     | Status   |
-| ---- | --------------------------------- | -------- | -------- |
+| Sno. | Algorithm                         | Link                                                                                                                                | Status   |
+| ---- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | 1    | PCA                               | [Link](https://github.com/pankajsingh016/Machine-Learning-Basics/blob/main/Machine%20Learning%20Algos/PCA/pca_implementation.ipynb) | &#x2705; |
-| 2    | LDA(Linear Discriminant Analysis) | [Link]() | &#x274c; |
-| 3    | t-SNE                             | [Link]() | &#x274c; |
+| 2    | LDA(Linear Discriminant Analysis) | [Link]()                                                                                                                            | &#x274c; |
+| 3    | t-SNE                             | [Link]()                                                                                                                            | &#x274c; |
 
 ### Anomaly Detection
 
