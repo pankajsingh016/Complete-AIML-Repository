@@ -1,10 +1,11 @@
-import os
 import argparse
+import subprocess
 
 def auto_push(commit_message='auto push'):
-    os.system("git add .")
-    os.system(f"git commit -m {commit_message}")
-    os.system("git push -u origin main")
+    subprocess.run(["git","add","."],check=True)
+    subprocess.run(["git","commit","-m",commit_message],check=True)
+    subprocess.run(["git","push","-u","origin","main"],check=True)
+    print("Successfully Pushed the code!")
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser(description="Auto-push script for Git.")
